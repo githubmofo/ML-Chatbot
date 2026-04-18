@@ -212,12 +212,10 @@ If not running, app will still work (without explanations).
 
 ---
 
-## 👨‍💻 Author
-
-Developed as a smart ML assistant project.
+## **👨‍💻 Author**
 
 ---
+By Jenish Lad
+By Parv Garara
 
-## 📜 License
 
-This project is for educational purposes.
