@@ -139,8 +139,8 @@ AI_Data_Assistant/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-data-assistant.git
-cd ai-data-assistant
+[git clone https://github.com/githubmofo/ML-Chatbot.git]
+cd ML-Chatbot
 ```
 
 ### 2. Install dependencies
