@@ -215,8 +215,9 @@ If not running, app will still work (without explanations).
 ## **👨‍💻 Author**
 
 ---
-By Jenish Lad
 
 By Parv Garara
+
+By Jenish Lad
 
 
