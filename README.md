@@ -212,6 +212,86 @@ If not running, app will still work (without explanations).
 
 ---
 
+# 🧪 Test Dataset (Quick Start)
+
+> 🚀 Want to try the application instantly without finding your own data?
+> Use the sample dataset provided below.
+
+---
+
+## 📥 Sample Dataset
+
+We recommend using the **Heart Disease Dataset** for testing.
+
+```bash
+File name: heart.csv
+```
+
+---
+
+## 📊 Dataset Overview
+
+This dataset is used for **classification tasks** and contains medical attributes such as:
+
+* Age
+* Sex
+* Chest Pain Type
+* Blood Pressure
+* Cholesterol
+* Heart Rate
+* And more...
+
+🎯 **Target Column:**
+
+```bash
+target
+```
+
+* `0` → No heart disease
+* `1` → Heart disease present
+
+---
+
+## ✅ Why This Dataset?
+
+✔ Clean and structured
+✔ Perfect for classification
+✔ Works smoothly with the application
+✔ No heavy preprocessing required
+
+---
+
+## ▶️ How to Use
+
+1. Launch the application
+2. Click **Upload CSV**
+3. Select `heart.csv`
+4. Follow chat instructions
+5. Choose:
+
+   * Target → `target`
+   * Task → Classification
+6. Train model and test predictions
+
+---
+
+## 💡 Expected Outcome
+
+* Model will train successfully
+* You’ll get:
+
+  * Accuracy score
+  * Feature importance
+  * Graph visualizations
+  * Prediction results
+
+---
+
+✨ This dataset is ideal for first-time users to explore all features of the AI Data Assistant.
+
+---
+
+
 ## **👨‍💻 Author**
 
 ---
